@@ -1,0 +1,12 @@
+C:\Users\Administrator\Github\MyAPI\MyAPI\bin\Release\net8.0\publish\MyAPI.exe
+C:\Users\Administrator\Github\MyAPI\MyAPI\bin\Release\net8.0\publish\appsettings.Development.json
+C:\Users\Administrator\Github\MyAPI\MyAPI\bin\Release\net8.0\publish\appsettings.json
+C:\Users\Administrator\Github\MyAPI\MyAPI\bin\Release\net8.0\publish\MyAPI.dll
+C:\Users\Administrator\Github\MyAPI\MyAPI\bin\Release\net8.0\publish\MyAPI.deps.json
+C:\Users\Administrator\Github\MyAPI\MyAPI\bin\Release\net8.0\publish\MyAPI.runtimeconfig.json
+C:\Users\Administrator\Github\MyAPI\MyAPI\bin\Release\net8.0\publish\MyAPI.pdb
+C:\Users\Administrator\Github\MyAPI\MyAPI\bin\Release\net8.0\publish\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\Administrator\Github\MyAPI\MyAPI\bin\Release\net8.0\publish\Microsoft.OpenApi.dll
+C:\Users\Administrator\Github\MyAPI\MyAPI\bin\Release\net8.0\publish\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Administrator\Github\MyAPI\MyAPI\bin\Release\net8.0\publish\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Administrator\Github\MyAPI\MyAPI\bin\Release\net8.0\publish\Swashbuckle.AspNetCore.SwaggerUI.dll
