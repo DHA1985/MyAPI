@@ -31,3 +31,4 @@ C:\Users\Administrator\Github\MyAPI\MyAPI\obj\Release\net8.0\refint\MyAPI.dll
 C:\Users\Administrator\Github\MyAPI\MyAPI\obj\Release\net8.0\MyAPI.pdb
 C:\Users\Administrator\Github\MyAPI\MyAPI\obj\Release\net8.0\MyAPI.genruntimeconfig.cache
 C:\Users\Administrator\Github\MyAPI\MyAPI\obj\Release\net8.0\ref\MyAPI.dll
+C:\Users\Administrator\Github\MyAPI\MyAPI\obj\Release\net8.0\MyAPI.sourcelink.json
